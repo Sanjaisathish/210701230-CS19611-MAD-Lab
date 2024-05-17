@@ -1,4 +1,5 @@
-activity_main.xml
+activity_main.xml:
+
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -24,7 +25,7 @@ activity_main.xml
         android:layout_marginTop="20dp"/>
 </RelativeLayout>
 
-  MainActivity.kt
+MainActivity.kt:
 
 package com.example.textstyler
 
